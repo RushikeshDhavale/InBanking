@@ -1,0 +1,77 @@
+2022-08-31 21:29:31,916 [main] INFO ibanking - user name provided
+2022-08-31 21:29:32,253 [main] INFO ibanking - password provided
+2022-08-31 21:29:39,001 [main] INFO ibanking - user name provided
+2022-08-31 21:29:39,111 [main] INFO ibanking - password provided
+2022-08-31 21:29:44,859 [main] INFO ibanking - user name provided
+2022-08-31 21:29:45,161 [main] INFO ibanking - password provided
+2022-08-31 21:29:50,754 [main] INFO ibanking - user name provided
+2022-08-31 21:29:51,125 [main] INFO ibanking - password provided
+2022-08-31 21:29:56,706 [main] INFO ibanking - user name provided
+2022-08-31 21:29:57,143 [main] INFO ibanking - password provided
+2022-08-31 21:31:01,351 [main] INFO ibanking - User name is provided
+2022-08-31 21:31:01,505 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:31:01,991 [main] INFO ibanking - clicked on login
+2022-08-31 21:33:37,099 [main] INFO ibanking - User name is provided
+2022-08-31 21:33:37,411 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:33:39,337 [main] INFO ibanking - clicked on login
+2022-08-31 21:38:24,663 [main] INFO ibanking - User name is provided
+2022-08-31 21:38:24,812 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:38:26,612 [main] INFO ibanking - clicked on login
+2022-08-31 21:41:13,685 [main] INFO ibanking - User name is provided
+2022-08-31 21:41:13,814 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:41:16,040 [main] INFO ibanking - clicked on login
+2022-08-31 21:41:22,170 [main] INFO ibanking - clicked On AddNewCustomer
+2022-08-31 21:41:22,174 [main] INFO ibanking - providing customer details....
+2022-08-31 21:41:38,492 [main] INFO ibanking - validation started....
+2022-08-31 21:41:38,527 [main] INFO ibanking - test case passed....
+2022-08-31 21:42:25,569 [main] INFO ibanking - User name is provided
+2022-08-31 21:42:25,825 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:42:27,994 [main] INFO ibanking - clicked on login
+2022-08-31 21:42:34,123 [main] INFO ibanking - clicked On AddNewCustomer
+2022-08-31 21:42:34,124 [main] INFO ibanking - providing customer details....
+2022-08-31 21:44:04,951 [main] INFO ibanking - User name is provided
+2022-08-31 21:44:05,179 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:44:28,594 [main] INFO ibanking - clicked on login
+2022-08-31 21:44:34,741 [main] INFO ibanking - clicked On AddNewCustomer
+2022-08-31 21:44:34,760 [main] INFO ibanking - providing customer details....
+2022-08-31 21:52:59,760 [main] INFO ibanking - User name is provided
+2022-08-31 21:52:59,895 [main] INFO ibanking - Passsword is provided
+2022-08-31 21:53:28,353 [main] INFO ibanking - clicked on login
+2022-08-31 21:53:34,485 [main] INFO ibanking - clicked On AddNewCustomer
+2022-08-31 22:54:56,919 [main] INFO ibanking - Url is opened
+2022-08-31 22:54:57,182 [main] INFO ibanking - Entered Username
+2022-08-31 22:54:57,332 [main] INFO ibanking - Entered Password
+2022-08-31 22:54:58,238 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:37:32,532 [main] INFO ibanking - Url is opened
+2022-09-01 08:37:32,813 [main] INFO ibanking - Entered Username
+2022-09-01 08:37:32,947 [main] INFO ibanking - Entered Password
+2022-09-01 08:37:33,544 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:39:11,368 [main] INFO ibanking - Url is opened
+2022-09-01 08:39:11,518 [main] INFO ibanking - Entered Username
+2022-09-01 08:39:11,746 [main] INFO ibanking - Entered Password
+2022-09-01 08:39:15,860 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:42:04,060 [main] INFO ibanking - Url is opened
+2022-09-01 08:42:04,335 [main] INFO ibanking - Entered Username
+2022-09-01 08:42:04,471 [main] INFO ibanking - Entered Password
+2022-09-01 08:42:10,185 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:42:13,203 [main] INFO ibanking - Login Test Passed
+2022-09-01 08:43:07,377 [main] INFO ibanking - Url is opened
+2022-09-01 08:43:07,559 [main] INFO ibanking - Entered Username
+2022-09-01 08:43:07,687 [main] INFO ibanking - Entered Password
+2022-09-01 08:43:13,752 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:43:16,772 [main] INFO ibanking - Login Test Passed
+2022-09-01 08:46:00,790 [main] INFO ibanking - Url is opened
+2022-09-01 08:46:00,997 [main] INFO ibanking - Entered Username
+2022-09-01 08:46:01,252 [main] INFO ibanking - Entered Password
+2022-09-01 08:46:25,344 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:46:26,412 [main] INFO ibanking - Login Test Passed
+2022-09-01 08:48:03,485 [main] INFO ibanking - Url is opened
+2022-09-01 08:48:03,673 [main] INFO ibanking - Entered Username
+2022-09-01 08:48:03,845 [main] INFO ibanking - Entered Password
+2022-09-01 08:48:28,011 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:48:29,055 [main] INFO ibanking - Login Test Passed
+2022-09-01 08:51:37,671 [main] INFO ibanking - Url is opened
+2022-09-01 08:51:37,879 [main] INFO ibanking - Entered Username
+2022-09-01 08:51:38,028 [main] INFO ibanking - Entered Password
+2022-09-01 08:52:02,143 [main] INFO ibanking - Clicked on submit
+2022-09-01 08:52:05,165 [main] INFO ibanking - Login Test Passed
